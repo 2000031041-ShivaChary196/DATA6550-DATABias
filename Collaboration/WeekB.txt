@@ -1,0 +1,342 @@
+WEBVTT
+
+1
+00:00:01.310 --> 00:00:02.650
+Shiva Kumar Chary Valaboju: Hi, Divya.
+
+2
+00:00:03.510 --> 00:00:04.400
+Divya Sai Sukanya Indala: Hi.
+
+3
+00:00:05.000 --> 00:00:07.390
+Shiva Kumar Chary Valaboju: Yeah, so… did you work down your code?
+
+4
+00:00:07.760 --> 00:00:12.560
+Divya Sai Sukanya Indala: Oh, yeah, yeah, I did. So, and also, I uploaded in a GitHub, did you check it?
+
+5
+00:00:12.890 --> 00:00:14.630
+Shiva Kumar Chary Valaboju: Yeah, I didn't, just to give my.
+
+6
+00:00:14.980 --> 00:00:15.580
+Divya Sai Sukanya Indala: I'll be.
+
+7
+00:00:15.580 --> 00:00:17.979
+Shiva Kumar Chary Valaboju: Yeah, so I've also uploaded it on the GitHub.
+
+8
+00:00:18.210 --> 00:00:20.070
+Shiva Kumar Chary Valaboju: So, if you had a look at it…
+
+9
+00:00:22.350 --> 00:00:23.729
+Divya Sai Sukanya Indala: Yeah, yeah, I did.
+
+10
+00:00:24.390 --> 00:00:27.279
+Shiva Kumar Chary Valaboju: Yeah, so can I just go through your code or something?
+
+11
+00:00:27.610 --> 00:00:36.509
+Divya Sai Sukanya Indala: Yeah. So I just want to start with like how our target variables like gender and.
+
+12
+00:00:38.110 --> 00:00:50.310
+Divya Sai Sukanya Indala: arrays education and working hours as distributed in the data set. So first, I did a analysis on it. I did first income distribution. So I created one graph.
+
+13
+00:00:53.010 --> 00:01:01.730
+Divya Sai Sukanya Indala: And, like, it showed a $50,000 or less than payer, so, like, who are ending a $50,000 or less per year.
+
+14
+00:01:01.840 --> 00:01:08.479
+Divya Sai Sukanya Indala: and who are earning more than 50,000. So it says, like their income distribution.
+
+15
+00:01:08.700 --> 00:01:13.160
+Divya Sai Sukanya Indala: And, I analyzed the gender distribution.
+
+16
+00:01:13.410 --> 00:01:27.619
+Divya Sai Sukanya Indala: I had to check whether males and females are equally presented in the data set. So the graph showed that male records are more than the female records. It's actually, I thought it's like gender representation bias.
+
+17
+00:01:27.680 --> 00:01:38.719
+Divya Sai Sukanya Indala: as we… I checked it. So… and, third one is race distribution. So, in that analysis, in the graph, it showed, like, white…
+
+18
+00:01:38.720 --> 00:01:50.829
+Divya Sai Sukanya Indala: The results showed that white racial group makes the largest portion of the data set. So this indicates a representation bias in my analysis. And another, I did education distributions.
+
+19
+00:01:50.830 --> 00:02:06.209
+Divya Sai Sukanya Indala: And after that, I analyzed each variable by comparing with the income, so income by gender. In that, I found that most males and females earn $50,000 or less.
+
+20
+00:02:06.210 --> 00:02:11.139
+Divya Sai Sukanya Indala: But many more males and more than $50K compared to females.
+
+21
+00:02:11.140 --> 00:02:24.610
+Divya Sai Sukanya Indala: So these differences may reflect historical or societal patterns. And also, I combat income by race to examine how income varies across racial groups.
+
+22
+00:02:24.660 --> 00:02:25.630
+Divya Sai Sukanya Indala: The…
+
+23
+00:02:26.050 --> 00:02:33.570
+Divya Sai Sukanya Indala: I found the results. The white racial group has the highest number of people in both income categories.
+
+24
+00:02:33.620 --> 00:02:45.689
+Divya Sai Sukanya Indala: maybe because it is the largest group in the data set. And I also analyzed the income by education. It showed that most, like, bachelor's, master's, professional schools has
+
+25
+00:02:45.690 --> 00:02:57.439
+Divya Sai Sukanya Indala: are more likely to earn more than $50,000 than people with lower education levels. And also, I created an Instagram of Howard's worker per week.
+
+26
+00:02:57.770 --> 00:03:06.249
+Divya Sai Sukanya Indala: I just want to understand the works of individuals, because working hours can influence annual income as well. So, and
+
+27
+00:03:06.250 --> 00:03:19.989
+Divya Sai Sukanya Indala: Finally, I performed a correlation matrix like how relationship I want to check that how that relationship among the numerical variables. So I found result that the most correlation values are weak.
+
+28
+00:03:20.100 --> 00:03:29.639
+Divya Sai Sukanya Indala: Meaning, I mean, numerical factors has a strong linear relationships with the others. And so I found gender bias.
+
+29
+00:03:29.720 --> 00:03:41.660
+Divya Sai Sukanya Indala: At first, because the dataset contains more males than females, and males are more frequently generated in a higher income categories. So after that, I found race bias.
+
+30
+00:03:41.940 --> 00:03:47.540
+Divya Sai Sukanya Indala: Because the white racial group is much more represented than the other racial groups.
+
+31
+00:03:47.770 --> 00:03:56.520
+Divya Sai Sukanya Indala: Third one, I found out education bias. Since individuals with higher education levels are more likely to earn higher incomes.
+
+32
+00:03:56.630 --> 00:04:07.620
+Divya Sai Sukanya Indala: Finally, and also I found that sampling bias, because, the dataset is not evenly balanced across gender, race, education, or income.
+
+33
+00:04:08.030 --> 00:04:13.570
+Divya Sai Sukanya Indala: So, maybe the dataset may not fully represented the border population. So…
+
+34
+00:04:15.140 --> 00:04:20.650
+Divya Sai Sukanya Indala: These factors such as gender, race, education, and working hours relate to income.
+
+35
+00:04:23.530 --> 00:04:43.080
+Divya Sai Sukanya Indala: it is important to identify the bias biases before using a data. I will say that it is important to identify the bias before using a data set to build up predictive models so that we can develop a more responsible and ethical AI system as per our project. So
+
+36
+00:04:44.550 --> 00:04:51.269
+Divya Sai Sukanya Indala: Yeah, that's it. I found these results in my code, like, what I'm doing, my answers, yes.
+
+37
+00:04:52.710 --> 00:04:54.550
+Shiva Kumar Chary Valaboju: Yeah, okay, so…
+
+38
+00:04:54.980 --> 00:05:03.900
+Shiva Kumar Chary Valaboju: So I did the similar thing. So first I have gone through the data set, then I found some null values in it.
+
+39
+00:05:04.120 --> 00:05:07.020
+Shiva Kumar Chary Valaboju: So I have just removed those null values.
+
+40
+00:05:07.170 --> 00:05:11.130
+Shiva Kumar Chary Valaboju: And I have, cleaned the data first, and…
+
+41
+00:05:11.670 --> 00:05:14.149
+Shiva Kumar Chary Valaboju: So, we have a count of…
+
+42
+00:05:14.860 --> 00:05:21.609
+Shiva Kumar Chary Valaboju: The male and female, and the mean, median, standard deviation, and we have…
+
+43
+00:05:22.410 --> 00:05:25.509
+Shiva Kumar Chary Valaboju: Some values for the dataset, so…
+
+44
+00:05:26.940 --> 00:05:33.429
+Shiva Kumar Chary Valaboju: I have done first the gender distribution, where we have, like, male population is more than the female.
+
+45
+00:05:33.680 --> 00:05:45.340
+Shiva Kumar Chary Valaboju: And when it comes to the race distribution, we have the white people are more, then comes to the black, and then comes to Asian, and American Indian, and the others.
+
+46
+00:05:45.760 --> 00:05:49.920
+Shiva Kumar Chary Valaboju: So, when it comes to the income by gender, I have seen
+
+47
+00:05:50.260 --> 00:05:53.499
+Shiva Kumar Chary Valaboju: Females incomes are less than the males one.
+
+48
+00:05:53.920 --> 00:05:56.970
+Shiva Kumar Chary Valaboju: Where you have… you can go through, like.
+
+49
+00:05:57.080 --> 00:06:04.160
+Shiva Kumar Chary Valaboju: You have, like, greater than 50,000 and less than 50,000 are distributed by blue and orange color.
+
+50
+00:06:04.580 --> 00:06:08.570
+Shiva Kumar Chary Valaboju: So, income by race, I have done, and age distribution.
+
+51
+00:06:09.000 --> 00:06:12.389
+Shiva Kumar Chary Valaboju: And education distribution we have done, whereas…
+
+52
+00:06:12.570 --> 00:06:18.309
+Shiva Kumar Chary Valaboju: Most of the people have higher… Graduation degree, so…
+
+53
+00:06:18.680 --> 00:06:31.090
+Shiva Kumar Chary Valaboju: When it comes to the percentage above 50K, we have… more than 50K, like… Percentage are, like, more…
+
+54
+00:06:31.360 --> 00:06:36.160
+Shiva Kumar Chary Valaboju: Like 75% and 24% are less than 50K.
+
+55
+00:06:36.420 --> 00:06:38.700
+Shiva Kumar Chary Valaboju: And when it comes to the female.
+
+56
+00:06:38.880 --> 00:06:43.909
+Shiva Kumar Chary Valaboju: 90… 89% are, like, earning greater than or equal to $50,000.
+
+57
+00:06:44.320 --> 00:06:47.049
+Shiva Kumar Chary Valaboju: And less than 50,000 are, like, 10%.
+
+58
+00:06:47.470 --> 00:06:52.229
+Shiva Kumar Chary Valaboju: And males are, like, 69% earning, like, greater than or equal to 50K, and…
+
+59
+00:06:53.110 --> 00:06:57.330
+Shiva Kumar Chary Valaboju: Less than or 50k is, like, 30.57%.
+
+60
+00:06:57.800 --> 00:07:01.689
+Shiva Kumar Chary Valaboju: And we have some race percentages and correlation percentages.
+
+61
+00:07:02.140 --> 00:07:05.590
+Shiva Kumar Chary Valaboju: So… I think…
+
+62
+00:07:06.410 --> 00:07:12.609
+Shiva Kumar Chary Valaboju: I'll agree with your biases, and I have done the same biases I have found, and…
+
+63
+00:07:12.720 --> 00:07:16.470
+Shiva Kumar Chary Valaboju: Same issues also, it's like, we have, like, not popular…
+
+64
+00:07:17.390 --> 00:07:20.700
+Shiva Kumar Chary Valaboju: Good data set, it has some distributions in it.
+
+65
+00:07:21.170 --> 00:07:21.979
+Shiva Kumar Chary Valaboju: And when it…
+
+66
+00:07:21.980 --> 00:07:22.620
+Divya Sai Sukanya Indala: Yes.
+
+67
+00:07:22.930 --> 00:07:28.320
+Shiva Kumar Chary Valaboju: Yeah, so… So those are all the things I have been found through.
+
+68
+00:07:29.960 --> 00:07:30.580
+Divya Sai Sukanya Indala: And.
+
+69
+00:07:30.870 --> 00:07:32.090
+Shiva Kumar Chary Valaboju: Yeah, so…
+
+70
+00:07:32.520 --> 00:07:39.260
+Divya Sai Sukanya Indala: So, we're done with our code analysis, right? So, should we have to start our… Report?
+
+71
+00:07:39.560 --> 00:07:43.830
+Shiva Kumar Chary Valaboju: Yeah, so I have sent you the Google Doc link.
+
+72
+00:07:43.960 --> 00:07:47.610
+Shiva Kumar Chary Valaboju: So if you have anything from your side, you can just modify it.
+
+73
+00:07:47.720 --> 00:07:54.999
+Shiva Kumar Chary Valaboju: So I will go ahead and start doing the final report today, and I will be posting it in the Google Doc.
+
+74
+00:07:55.200 --> 00:07:58.609
+Shiva Kumar Chary Valaboju: So if you have any changes from your side, you can change it.
+
+75
+00:07:58.810 --> 00:08:00.100
+Shiva Kumar Chary Valaboju: And… yeah.
+
+76
+00:08:00.310 --> 00:08:05.529
+Divya Sai Sukanya Indala: So, after completing it for the representation, I'll go for the PPT, yeah.
+
+77
+00:08:05.710 --> 00:08:08.030
+Shiva Kumar Chary Valaboju: Yeah, once I'm… once I'm done with the…
+
+78
+00:08:09.530 --> 00:08:15.080
+Shiva Kumar Chary Valaboju: final report, you can go ahead and make the presentation and just send it to me so I can
+
+79
+00:08:15.230 --> 00:08:19.410
+Shiva Kumar Chary Valaboju: We can present it to the… Last Thursday, yeah.
+
+80
+00:08:19.800 --> 00:08:21.009
+Divya Sai Sukanya Indala: Yeah, yeah, okay.
+
+81
+00:08:21.770 --> 00:08:25.340
+Shiva Kumar Chary Valaboju: So, that's it then. Yeah, anything else you need to add on?
+
+82
+00:08:26.340 --> 00:08:29.890
+Divya Sai Sukanya Indala: No. It's good. Yeah. Yeah.
+
+83
+00:08:29.890 --> 00:08:31.450
+Shiva Kumar Chary Valaboju: Yeah, so that's it then.
+
+84
+00:08:31.770 --> 00:08:33.060
+Shiva Kumar Chary Valaboju: I'll see you at the end.
+
+85
+00:08:33.440 --> 00:08:34.339
+Divya Sai Sukanya Indala: Yes, you. Bye.
+
