@@ -1,0 +1,166 @@
+WEBVTT
+
+1
+00:00:01.910 --> 00:00:04.129
+Shiva Kumar Chary Valaboju: Hi, Divya, so…
+
+2
+00:00:04.970 --> 00:00:06.030
+Divya Sai Sukanya Indala: Hi.
+
+3
+00:00:06.390 --> 00:00:12.150
+Shiva Kumar Chary Valaboju: So, as per the exploring biases in datasets, did you find any dataset for yourself?
+
+4
+00:00:12.820 --> 00:00:16.140
+Divya Sai Sukanya Indala: Oh, yeah, yeah, I did. You? You got anything to say?
+
+5
+00:00:16.140 --> 00:00:18.700
+Shiva Kumar Chary Valaboju: I do have one data set in my mind, so…
+
+6
+00:00:18.810 --> 00:00:24.020
+Shiva Kumar Chary Valaboju: Let me start by, from my side, so let's explain my dataset.
+
+7
+00:00:24.360 --> 00:00:34.769
+Shiva Kumar Chary Valaboju: So I just found a data set called the jigsaw toxic comments data set in the Kaggle, which is a competition in 2018.
+
+8
+00:00:35.000 --> 00:00:41.529
+Shiva Kumar Chary Valaboju: So… it's, it has, like, Something like…
+
+9
+00:00:42.970 --> 00:00:52.929
+Shiva Kumar Chary Valaboju: which is created between 2015 to 2017, which has, like, 50 English languages, sites, data sets, which has, like,
+
+10
+00:00:53.030 --> 00:00:56.030
+Shiva Kumar Chary Valaboju: 1.5 millions of data.
+
+11
+00:00:56.430 --> 00:01:01.789
+Shiva Kumar Chary Valaboju: So, it's basically saying that the dataset is toxic or not.
+
+12
+00:01:02.310 --> 00:01:05.290
+Shiva Kumar Chary Valaboju: So, which contains, like, 1.5M comments…
+
+13
+00:01:06.300 --> 00:01:11.659
+Shiva Kumar Chary Valaboju: So… that's the dataset I have looked at it, and what's the dataset you have gone through?
+
+14
+00:01:12.490 --> 00:01:13.560
+Divya Sai Sukanya Indala: Oh, yeah.
+
+15
+00:01:13.980 --> 00:01:25.419
+Divya Sai Sukanya Indala: Whereas, as per project, so I found that adult census income dataset on Kaggle as well. So, I found this dataset because, like, it contains…
+
+16
+00:01:26.510 --> 00:01:31.480
+Divya Sai Sukanya Indala: Gender, race, age, education, and, occupation features.
+
+17
+00:01:31.830 --> 00:01:39.470
+Divya Sai Sukanya Indala: to analyze biases, well-known biases like per the project.
+
+18
+00:01:41.590 --> 00:01:52.430
+Divya Sai Sukanya Indala: So it's also a public data set and also created on 1994 by in by the US census. So it has a 50,000 variables.
+
+19
+00:01:52.890 --> 00:01:59.780
+Divya Sai Sukanya Indala: So, 48,000 of records to test the data, and have 15 columns, and we can…
+
+20
+00:02:00.780 --> 00:02:09.220
+Divya Sai Sukanya Indala: features like age, work class, education, occupation, relationship, like this. These can… by this, we can,
+
+21
+00:02:09.889 --> 00:02:29.590
+Divya Sai Sukanya Indala: I mean, analyze the sex, race and age, education, analysis, biases, and fairness for studying. So we can analyze the gender bias, racial bias, education, bias, age, bias from these features. So I felt that, yeah, yeah, this is a good data set for our project. What do you say?
+
+22
+00:02:30.560 --> 00:02:32.919
+Shiva Kumar Chary Valaboju: Okay, then let's go ahead with that.
+
+23
+00:02:33.770 --> 00:02:34.290
+Shiva Kumar Chary Valaboju: So…
+
+24
+00:02:34.290 --> 00:02:36.160
+Divya Sai Sukanya Indala: I don't census income data, sir.
+
+25
+00:02:36.160 --> 00:02:37.180
+Shiva Kumar Chary Valaboju: Yeah.
+
+26
+00:02:37.390 --> 00:02:42.049
+Divya Sai Sukanya Indala: Okay. Do you want me to send the dataset for you? Like, for the first…
+
+27
+00:02:42.050 --> 00:02:43.890
+Shiva Kumar Chary Valaboju: Same process, data set, yeah.
+
+28
+00:02:44.250 --> 00:02:45.489
+Divya Sai Sukanya Indala: Yeah, okay. Thank you for your help.
+
+29
+00:02:45.490 --> 00:02:48.790
+Shiva Kumar Chary Valaboju: So yeah, so we finally choose the data set.
+
+30
+00:02:49.230 --> 00:02:52.710
+Shiva Kumar Chary Valaboju: So, later, we'll have another meet.
+
+31
+00:02:53.180 --> 00:02:57.230
+Shiva Kumar Chary Valaboju: On how, we're gonna do the report and coding.
+
+32
+00:02:57.570 --> 00:03:07.040
+Shiva Kumar Chary Valaboju: So, if you… if you want, meanwhile, just do your code and upload in the GitHub. I've just sent you the invitation in GitHub, and I've also shared the Google Doc.
+
+33
+00:03:07.360 --> 00:03:13.539
+Divya Sai Sukanya Indala: Yeah, yeah, I saw that I already accepted. So, for the coding, we have to do our EDA analysis to that?
+
+34
+00:03:13.710 --> 00:03:14.430
+Shiva Kumar Chary Valaboju: Yes.
+
+35
+00:03:14.690 --> 00:03:20.069
+Divya Sai Sukanya Indala: like, 5, I mean, like, 5 analysis is okay, like, 5 charts or something.
+
+36
+00:03:20.360 --> 00:03:30.509
+Shiva Kumar Chary Valaboju: Yeah, so do whatever you want and finally we'll go through it and we'll do a final report based on our both quotes.
+
+37
+00:03:31.040 --> 00:03:31.860
+Divya Sai Sukanya Indala: Okay, thank you.
+
+38
+00:03:32.370 --> 00:03:33.300
+Shiva Kumar Chary Valaboju: Yeah, then.
+
+39
+00:03:33.300 --> 00:03:34.389
+Divya Sai Sukanya Indala: Yeah, okay, then.
+
+40
+00:03:34.390 --> 00:03:35.360
+Shiva Kumar Chary Valaboju: Bye bye. See.
+
+41
+00:03:35.360 --> 00:03:36.289
+Divya Sai Sukanya Indala: Sure, sure.
+
